@@ -1,0 +1,2 @@
+Time(Metadata),Gateway_id,Timestamp,RSSI,SNR,Latitude,Longitude,Data_Rate,Coding_Rate,Rpi_Timestamp
+
